@@ -1,0 +1,7 @@
+# diretorios
+Include/
+Lib/
+Scripts/
+share/
+*.cfg
+
